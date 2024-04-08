@@ -40,6 +40,10 @@ similar to the hello example, this will auto-direct you to a page in your defaul
 
 I customized the button color and also changed the Button color on hover.
 
+app:
 ![app](app.png)
+app with button on hover:
 ![app with button on hover](app2.png)
-![one example of how the app could be used: it takes a line of text and finish the story](example.png)
+
+one example of how the app could be used: it takes a line of text and finishes the story:
+![one example of how the app could be used: it takes a line of text and finishes the story](example.png)
