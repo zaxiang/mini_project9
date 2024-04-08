@@ -26,6 +26,6 @@ if st.button('Generate Text'):
     # Load the model
     generator = pipeline('text-generation', model='gpt2')
     # Generate text
-    generated = generator(user_input, max_length=50, num_return_sequences=1)
+    generated = generator(user_input, max_length=300, num_return_sequences=1)
     # Display generated text
     st.write(generated[0]['generated_text'])
